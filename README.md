@@ -1,2 +1,2 @@
-# NumberGuessingGame
-Simple number guessing game where you have 10 attempts to
+**Number Guessing Game**  
+This project is a simple and interactive game where the computer randomly selects a number between 1 and 100, and the player has to guess the number within a limited number of attempts (e.g., 10). After each guess, the program provides feedback, telling the player if their guess was too high or too low. The game ends when the player guesses the correct number or runs out of attempts. It’s a fun way to practice logic, problem-solving, and programming skills!
